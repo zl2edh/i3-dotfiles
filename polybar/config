@@ -57,7 +57,7 @@ font-2 = siji:FontAwesome=10;1
 
 modules-left = i3
 modules-center = xwindow
-modules-right = filesystem xbacklight pulseaudio xkeyboard memory cpu wlan eth battery temperature date powermenu
+modules-right = filesystem xbacklight cpu memory pulseaudio wlan battery temperature date powermenu
 separator = |
 tray-position = middle
 tray-padding = 2
